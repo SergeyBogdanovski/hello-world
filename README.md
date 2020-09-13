@@ -1,2 +1,5 @@
 # hello-world
-my first depository
+
+Hello people!
+
+My name is Sergey and I`m learning to code. :)
